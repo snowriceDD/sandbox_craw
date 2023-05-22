@@ -1,3 +1,7 @@
+/**
+ * wanted 신입 프론트엔드 공고 크롤러
+ */
+
 const puppeteer = require('puppeteer');
 const cheerio = require('cheerio');
 
